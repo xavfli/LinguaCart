@@ -1,0 +1,54 @@
+
+{
+  "appName": "LinguaCart",
+  "home": "Home",
+  "cart": "Cart",
+  "checkout": "Checkout",
+  "language": "Language",
+  "search": "Search...",
+  "addToCart": "Add to Cart",
+  "removeFromCart": "Remove",
+  "updateQuantity": "Update Quantity",
+  "proceedToCheckout": "Proceed to Checkout",
+  "shoppingCart": "Shopping Cart",
+  "emptyCart": "Your cart is empty.",
+  "continueShopping": "Continue Shopping",
+  "subtotal": "Subtotal",
+  "total": "Total",
+  "orderSummary": "Order Summary",
+  "paymentDetails": "Payment Details",
+  "nameOnCard": "Name on Card",
+  "cardNumber": "Card Number",
+  "expiryDate": "Expiry Date (MM/YY)",
+  "cvv": "CVV",
+  "payNow": "Pay Now",
+  "paymentSuccessful": "Payment Successful!",
+  "paymentFailed": "Payment Failed. Please try again.",
+  "suggestedLanguageMessage": "We noticed you might prefer to browse in {languageName}. Would you like to switch?",
+  "switchTo": "Switch to {languageName}",
+  "cancel": "Cancel",
+  "english": "English",
+  "russian": "Russian",
+  "uzbek": "Uzbek",
+  "products": {
+    "pizza": {
+      "name": "Pepperoni Pizza",
+      "description": "Classic pepperoni pizza with a rich tomato sauce and mozzarella cheese."
+    },
+    "burger": {
+      "name": "Cheeseburger",
+      "description": "Juicy beef patty with cheddar cheese, lettuce, tomato, and special sauce."
+    },
+    "sushi": {
+      "name": "Salmon Sushi Set",
+      "description": "Fresh salmon sushi and rolls, served with soy sauce, wasabi, and ginger."
+    },
+    "pasta": {
+      "name": "Spaghetti Carbonara",
+      "description": "Creamy spaghetti with pancetta, egg, and Parmesan cheese."
+    }
+  },
+  "footer": {
+    "copy": "© 2024 LinguaCart. All rights reserved."
+  }
+}

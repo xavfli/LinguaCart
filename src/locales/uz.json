@@ -1,0 +1,54 @@
+
+{
+  "appName": "LinguaSavatcha",
+  "home": "Bosh sahifa",
+  "cart": "Savatcha",
+  "checkout": "To'lovga o'tish",
+  "language": "Til",
+  "search": "Qidirish...",
+  "addToCart": "Savatchaga qo'shish",
+  "removeFromCart": "O'chirish",
+  "updateQuantity": "Miqdorni yangilash",
+  "proceedToCheckout": "To'lovga o'tish",
+  "shoppingCart": "Xarid savatchasi",
+  "emptyCart": "Savatchangiz bo'sh.",
+  "continueShopping": "Xaridni davom ettirish",
+  "subtotal": "Oraliq summa",
+  "total": "Jami",
+  "orderSummary": "Buyurtma xulosasi",
+  "paymentDetails": "To'lov ma'lumotlari",
+  "nameOnCard": "Karta egasining ismi",
+  "cardNumber": "Karta raqami",
+  "expiryDate": "Amal qilish muddati (OY/YIL)",
+  "cvv": "CVV",
+  "payNow": "Hozir to'lash",
+  "paymentSuccessful": "To'lov muvaffaqiyatli amalga oshirildi!",
+  "paymentFailed": "To'lov amalga oshmadi. Iltimos, qayta urinib ko'ring.",
+  "suggestedLanguageMessage": "Siz {languageName} tilida ko'rishni afzal ko'rishingizni payqadik. O'zgartirishni xohlaysizmi?",
+  "switchTo": "{languageName} tiliga o'tish",
+  "cancel": "Bekor qilish",
+  "english": "Inglizcha",
+  "russian": "Ruscha",
+  "uzbek": "O'zbekcha",
+  "products": {
+    "pizza": {
+      "name": "Pepperoni Pitssa",
+      "description": "Klassik pepperoni pitssasi boy tomat sousi va motsarella pishloqi bilan."
+    },
+    "burger": {
+      "name": "Chizburger",
+      "description": "Chedder pishloqi, salat bargi, pomidor va maxsus sous bilan suvli mol go'shtidan kotlet."
+    },
+    "sushi": {
+      "name": "Lososli Sushi To'plami",
+      "description": "Yangi lososli sushi va rollar, soya sousi, vasabi va zanjabil bilan tortiladi."
+    },
+    "pasta": {
+      "name": "Spagetti Karbonara",
+      "description": "Panchetta, tuxum va Parmesan pishloqi bilan qaymoqli spagetti."
+    }
+  },
+  "footer": {
+    "copy": "© 2024 LinguaSavatcha. Barcha huquqlar himoyalangan."
+  }
+}
